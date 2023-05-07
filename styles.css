@@ -1,6 +1,7 @@
 body {
   text-align: center;
-  background-color: #3eb3dd;
+  background-image: url(./images/field.jpg);
+  background-size: 100%;
 }
 
 #level-title {
